@@ -1,9 +1,7 @@
-import { Analytics } from "@vercel/analytics/next"
 
 export default function Home() {
   return (
     <main className="welcome-container">
-      <Analytics />
       
       <div className="main-content">
         <div className="content">

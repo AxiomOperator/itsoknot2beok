@@ -135,7 +135,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+  background: linear-gradient(135deg, #647ce6 0%, #a466e2 50%, #dd83e7 100%);
   padding: 2rem;
 }
 
@@ -152,9 +152,9 @@
   background: rgba(255, 255, 255, 0.95);
   padding: 4rem 3rem;
   border-radius: 24px;
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.5), 0 20px 60px rgba(0, 0, 0, 0.2);
   text-align: center;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(20px);
 }
 
 .main-message {
